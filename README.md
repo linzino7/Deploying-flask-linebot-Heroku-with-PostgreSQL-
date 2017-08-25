@@ -25,7 +25,7 @@ Birth_Date timestamp );
             "userId":"U9d7b995f148fb32bf23f5f71xxxxxxxx",
             "type":"user"
          },
-         "timestamp":150356416xxxx,
+         "timestamp":1503564161111,
          "message":{  
             "type":"text",
             "id":"659199807xxxx",
