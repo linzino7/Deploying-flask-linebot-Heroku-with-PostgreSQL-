@@ -3,7 +3,9 @@
  - linechatbot.py `YOUR_CHANNEL_ACCESS_TOKEN`
  - linechatbot.py `YOUR_CHANNEL_SECRET`
  - dbModel.py `SQLALCHEMY_DATABASE_URI`
- 
+
+# webhook
+`https://www.yourdomain.com/callback`
  
 # SQL
 ```sql
