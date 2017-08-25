@@ -1,8 +1,8 @@
 # Deploying-flask-linebot-Heroku-with-PostgreSQL
 要修改三個參數:
- - linechatbot.py YOUR_CHANNEL_ACCESS_TOKEN
- - linechatbot.py YOUR_CHANNEL_SECRET
- - dbModel.py SQLALCHEMY_DATABASE_URI
+ - linechatbot.py `YOUR_CHANNEL_ACCESS_TOKEN`
+ - linechatbot.py `YOUR_CHANNEL_SECRET`
+ - dbModel.py `SQLALCHEMY_DATABASE_URI`
  
  
 # SQL
